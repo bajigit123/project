@@ -1,0 +1,27 @@
+d017c2d6a130
+
+IP: 12.109.239.230
+
+Subnet: 255.255.255.240
+
+Gateway: 12.109.239.225
+
+DNS: 8.8.8.8
+
+ 
+
+ 
+
+And I currently see a cable coming out of my switch going to an ASUS router with the following MAC info:
+
+ 
+
+IPv4 address:
+	
+
+12.109.239.230
+
+MAC address:
+	
+
+d0:17:c2:d6:a1:30
